@@ -1,6 +1,6 @@
 ﻿{
-    "name": "heroku-teers",
-    "description": "deploy teers to heroku",
+    "name": "huazhang",
+    "description": "deploy huazhang to heroku",
     "keywords": [""],
     "env": {
         "PROTOCOL": {
